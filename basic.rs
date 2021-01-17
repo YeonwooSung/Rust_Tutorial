@@ -83,7 +83,7 @@ fn iterate_elements_in_array() {
 fn generate_string_from_literals() {
     let s1 = String::from("Rust is awesome!");
     let s2 = String::from("I love Rust");
-    let s3 = String::from("I think I am a Rustacian!");
+    let s3 = String::from("I think I am a Rustacean!");
     
     println!("{}", s1);
     println!("{}", s2);
